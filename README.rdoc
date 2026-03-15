@@ -98,8 +98,3 @@ below if you are calling many in sequence:
 
 Fork / send a pull request or submit a ticket at:
 http://github.com/drylikov/growl/issues
-
-
-
-
-
